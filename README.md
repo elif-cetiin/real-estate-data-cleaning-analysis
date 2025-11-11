@@ -18,13 +18,17 @@ The project includes data exploration, visualization, correlation analysis, and 
 
 ## Key Insights
 
+
 - **Property size (sqft)** shows the highest correlation with price  
 - Price distribution is **right-skewed**, indicating a small number of high-value properties  
 - Larger properties display a consistent upward pricing trend  
-- A simple regression model provides a practical baseline for price estimation
-- Detected and removed duplicate rows
-- Identified and filtered outliers using IQR
-- Verified and inspected data types
+- A simple regression model provides a practical baseline for price estimation  
+- Detected and removed duplicate rows  
+- Identified and filtered outliers using IQR  
+- Verified and inspected data types  
+- The model explains ~54% of price variance (R² = 0.54), showing property size as a strong pricing indicator.  
+- Cleaned dataset by applying IQR outlier removal, increasing reliability of insights.
+
 
 
 ---
