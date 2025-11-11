@@ -21,7 +21,11 @@ The project includes data exploration, visualization, correlation analysis, and 
 - **Property size (sqft)** shows the highest correlation with price  
 - Price distribution is **right-skewed**, indicating a small number of high-value properties  
 - Larger properties display a consistent upward pricing trend  
-- A simple regression model provides a practical baseline for price estimation  
+- A simple regression model provides a practical baseline for price estimation
+- Detected and removed duplicate rows
+- Identified and filtered outliers using IQR
+- Verified and inspected data types
+
 
 ---
 
