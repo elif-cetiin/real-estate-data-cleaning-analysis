@@ -5,7 +5,7 @@ The project includes data exploration, visualization, correlation analysis, and 
 
 ---
 
-## Project Workflow
+# Project Workflow
 
 - Data loading and initial exploration  
 - Missing value and data type inspection  
@@ -16,11 +16,11 @@ The project includes data exploration, visualization, correlation analysis, and 
 
 ---
 
-## Key Insights
+# Key Insights
 
 
-- **Property size (sqft)** shows the highest correlation with price  
-- Price distribution is **right-skewed**, indicating a small number of high-value properties  
+- Property size (sqft) shows the highest correlation with price  
+- Price distribution is right-skewed, indicating a small number of high-value properties  
 - Larger properties display a consistent upward pricing trend  
 - A simple regression model provides a practical baseline for price estimation  
 - Detected and removed duplicate rows  
@@ -33,17 +33,17 @@ The project includes data exploration, visualization, correlation analysis, and 
 
 ---
 
-## Technologies & Libraries
+# Technologies & Libraries
 
-- **Python** (Pandas, NumPy)
-- **Seaborn & Matplotlib** for visualization  
-- **Scikit-Learn** for machine learning  
-- **Google Colab** for development  
-- **GitHub** for version control  
+- Python (Pandas, NumPy)
+- Seaborn & Matplotlib for visualization  
+- Scikit-Learn for machine learning  
+- Google Colab for development  
+- GitHub for version control  
 
 ---
 
-## Dataset Overview
+# Dataset Overview
 
 | Field | Description |
 |------|-------------|
@@ -56,20 +56,20 @@ The project includes data exploration, visualization, correlation analysis, and 
 
 ---
 
-## How to Run
+# How to Run
 
 Open and run the notebook file:
 
  `analysis.ipynb`
 
-Compatible with **Google Colab** and **Jupyter Notebook**.
+Compatible with Google Colab and Jupyter Notebook.
 
 
 ---
 
-## Author
+# Author
 
-**Elif Çetin**  
+Elif Cetin  
 Master of Science in Informatics  
 University of Louisiana at Lafayette  
 
